@@ -1,0 +1,26 @@
+{
+  "name": "CAPS-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdAzzam/CAPS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdAzzam/CAPS-/issues"
+  },
+  "homepage": "https://github.com/MohdAzzam/CAPS-#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^26.6.3"
+  }
+}
